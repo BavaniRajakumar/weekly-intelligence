@@ -1,0 +1,2 @@
+# first-repo
+Exploring GitHub
