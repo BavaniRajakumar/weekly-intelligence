@@ -45,4 +45,3 @@ Produce a final **Weekly Intelligence Briefing** with:
 
 STRICT RULE: Every claim must have a source or be marked ⚠️ Unverified.
 '''
-``
